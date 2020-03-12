@@ -48,6 +48,4 @@ public enum Result {
     private static boolean isWin(final Result result) {
         return result == WIN;
     }
-
-
 }
